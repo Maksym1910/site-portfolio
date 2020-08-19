@@ -21,7 +21,7 @@ body {
 
 .header {
     position: relative;
-    /* build flex-box model for .header */
+    /* build a flex-box model for .header */
     display: flex;
     flex-direction: column; /* build flex-elements into a column, main axis - Y  */
     justify-content: center; /* aligning in main axis */
@@ -66,7 +66,7 @@ body {
     transform: translate(-50%, 0);
 }
 
-/* PORTFOLIO */
+/* PORTFOLIO / MAIN PART */
 
 .portfolio {
     padding-top: 80px;
