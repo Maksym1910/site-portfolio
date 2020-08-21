@@ -1,7 +1,6 @@
 ## Description
 
-This is my site portfolio. You can find my projects (page-proofs) on it. So, I used github hosting, you can visit the site at the link below:
-https://maksym1910.github.io/site-portfolio/
+This is my site portfolio. You can find my projects (page-proofs) on it. So, I used github hosting, you can visit the site at the link: https://maksym1910.github.io/site-portfolio/
 
 ## License && copyright
 
