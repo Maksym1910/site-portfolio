@@ -8,10 +8,16 @@ body {
     color: #000000;
 }
 
+img {
+    max-width: 100%;
+}
+
 .container {
-    max-width: 1110px;
+    max-width: 1140px;
     margin-left: auto;
     margin-right: auto;
+    padding-right: 15px;
+    padding-left: 15px;
 }
 
 .none {
@@ -49,7 +55,7 @@ body {
 
 .header-subtitle {
     margin: 0;
-    width: 380px;
+    max-width: 380px;
     font-weight: 700;
     font-size: 16px;
     line-height: 150%;
